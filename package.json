@@ -1,0 +1,13 @@
+{
+  "name": "randomgen",
+  "version": "0.0.1",
+  "description": "Block-header based random number generator",
+  "main": "index.js",
+  "author": "DappForce <dappforce.io>",
+  "license": "GPL-3-only",
+  "devDependencies": {
+    "@polkadot/types": "^4.4.1",
+    "@subsocial/types": "^0.4.36",
+    "xorshift.js": "^1.0.5"
+  }
+}
